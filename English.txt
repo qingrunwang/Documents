@@ -16,3 +16,6 @@
 #   celsius degree
 #   % percent
 #   ‰ permil  ['pɜ:məl]
+
+#   syntax 句法语法
++   scratch 擦，刮, 乱写乱画
