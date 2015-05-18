@@ -15,4 +15,4 @@
 #   _ underscore
 #   celsius degree
 #   % percent
-#   ‰ permil
+#   ‰ permil  ['pɜ:məl]
