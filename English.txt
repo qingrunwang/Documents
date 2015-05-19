@@ -2,8 +2,8 @@
 #   ) close parenthesis
 #   [ open bracket
 #   ] close bracket  square brackets
-#   { open brace
-#   } close brace
+#   { open brace curly brace
+#   } close brace 
 #   x is multiplied by    is divided by
 #   | vertical bar
 #   / slash
